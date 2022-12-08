@@ -5,6 +5,7 @@ I present you a base of bot Discord in JS with Discord.js it is besides the same
 the requirements :
 
 - [Link to Node.js](https://nodejs.org/en/)
+- package screen (if you want to run the bot on linux)
 - Have the necessary knowledge
 
 How it works :
