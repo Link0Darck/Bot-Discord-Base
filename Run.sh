@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # -------------------------------------------------
-# Script qui demarre le BOT
+# Script that starts the BOT
 # -------------------------------------------------
 
 SCREEN="Bot"  #name used for the screen
