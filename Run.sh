@@ -1,4 +1,5 @@
 #!/bin/bash
+#I advise you to install the screen package (sudo apt-get install screen)
 
 # -------------------------------------------------
 # Script that starts the BOT
