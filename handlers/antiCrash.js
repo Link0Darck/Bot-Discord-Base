@@ -6,11 +6,11 @@ module.exports = client => {
     })
     process.on('uncaughtException', (err, origin) => {
         console.log("Exception error not caught")
-        console.log(error, origin)
+        console.log(err, origin)
     })
     process.on('uncaughtExceptionMonitor', (err, origin) => {
         console.log("Exception error not caught")
-        console.log(error, origin)
+        console.log(err, origin)
     })
     process.on('multipleResolves', (type, promise, reason) => {
         console.log("Multiple resolution error")
